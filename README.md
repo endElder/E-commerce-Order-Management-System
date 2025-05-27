@@ -4,18 +4,6 @@
 
 This is a simple e-commerce order management system built using **PostgreSQL** as the database and Python with the `psycopg2` library for database interaction. It demonstrates how to perform complex database operations, including multi-table relationships, transaction management, views, indexing, and advanced SQL queries.
 
------
-
-## Table of Contents
-
-  * [Project Overview](https://www.google.com/search?q=%23project-overview)
-  * [Features](https://www.google.com/search?q=%23features)
-  * [Database Design](https://www.google.com/search?q=%23database-design)
-  * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-  * [Setup and Run](https://www.google.com/search?q=%23setup-and-run)
-  * [Usage Examples](https://www.google.com/search?q=%23usage-examples)
-  * [Code Structure](https://www.google.com/search?q=%23code-structure)
-  * [Important Notes](https://www.google.com/search?q=%23important-notes)
 
 -----
 
